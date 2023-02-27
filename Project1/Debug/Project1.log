@@ -1,0 +1,22 @@
+﻿  meshes.cpp
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(613,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(912,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(1185,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(1283,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(1284,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(1430,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(1751,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(2288,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\meshes.cpp(2289,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(271,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(390,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(391,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(395,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(396,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(398,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(399,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Project1\Source.cpp(408,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> C:\Users\court\Documents\SNHU CS 330\Project1\Project1\Debug\Project1.exe
